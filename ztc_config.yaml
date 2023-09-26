@@ -1,0 +1,5 @@
+cni:
+  - calico
+tls-san:
+  - rke2lb
+  - cluster.local
