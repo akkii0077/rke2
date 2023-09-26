@@ -1,6 +1,6 @@
 cni:
   - calico
 tls-san:
-  - rke2LB
+  - rke2lb
   - cluster.local
-  - ztc.com
+  - domain
